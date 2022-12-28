@@ -258,6 +258,7 @@
             </div><!--close container wrapper-->
         </section><!--close section wrapper-->
 
+        
 		<!-- Footer and Scripts-->
 		<?php 
 			include "footer.php";
